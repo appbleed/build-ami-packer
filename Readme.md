@@ -49,7 +49,7 @@ $ cd build-ami-packer
 
 Run below command to create ubuntu AMI
 ```sh
-$ packer validate unbuntu-ami.json
+$ packer validate ubuntu-ami.json
 ```
 You should see validation output
 ```sh
